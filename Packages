@@ -1,0 +1,13 @@
+Package: me.nepeta.relocatereborn
+Version: 1.0.1
+Section: Tweaks
+Maintainer: there is none hope I update it nerd
+Depends: firmware (>7.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/me.nepeta.relocatereborn_1.0.1_iphoneos-arm.deb
+Size: 67
+MD5sum: A0E392A19A804ABDC9352F3704737C2D
+Description: mom cant track no more
+Name: relocate yo ass
+Author: yo mom
+Depiction: yo mom
