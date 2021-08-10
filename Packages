@@ -1,6 +1,7 @@
 Package: me.nepeta.relocatereborn
 Version: 1.0.1
 Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 13.0), applist, com.rpetrich.rocketbootstrap (>= 0.1.7), preferenceloader
 Maintainer: there is none hope I update it nerd
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
