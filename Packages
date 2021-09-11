@@ -7,7 +7,7 @@ Maintainer: trop
 Author: Nepeta
 Section: Tweaks
 Depends: mobilesubstrate, firmware (>= 13.0), applist, com.rpetrich.rocketbootstrap (>= 0.1.7), preferenceloader
-Filename: ./relocatereborn.deb
+Filename: ./debs/me.nepeta.relocatereborn_1.0.1_iphoneos-arm.deb
 Size: 70024
 MD5sum: d072cf45d0f1f3be81b841a877d880d5
 SHA1: 110b2d8d7cc38cb5202b6d62ce394d2372be9009
