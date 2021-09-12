@@ -2,7 +2,7 @@ Package: me.nepeta.relocatereborn
 Name: relocate yo ass
 Version: 1.0.1
 Architecture: iphoneos-arm
-Description: mommy no track 
+Description: mommy no track
 Maintainer: trop
 Author: Nepeta
 Section: Tweaks
@@ -12,3 +12,17 @@ Size: 70024
 MD5sum: d072cf45d0f1f3be81b841a877d880d5
 SHA1: 110b2d8d7cc38cb5202b6d62ce394d2372be9009
 SHA256: 71567fb157b13d3ce7de9ae51dd43949f7336f0c669f6341cc984e8cad948ab8
+
+Package: com.trop.trackpad
+Name: trackpad
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: trackpad funny
+Maintainer: trop
+Author: trop
+Section: Themes
+Depends: com.spark.snowboard
+Size: 21892
+MD5sum: 1BDBEB943557D8DBBAD0B71AA4A9F061
+SHA1: 334B79E8C06AE0B6FC721EB558373D3ACD9723F5
+SHA256: 49A958F693FDC22393BD4D56ACC35C030F53F382F85C6CB1C6F15B281410BE60
