@@ -15,7 +15,7 @@ SHA256: 71567fb157b13d3ce7de9ae51dd43949f7336f0c669f6341cc984e8cad948ab8
 
 Package: com.trop.trackpad
 Name: trackpad
-Version: 0.0.3
+Version: 0.0.4
 Architecture: iphoneos-arm
 Description: trackpad funny
 Maintainer: trop
@@ -23,7 +23,7 @@ Author: trop
 Section: Themes
 Depends: com.spark.snowboard
 Filename: ./debs/trackpad.deb
-Size: 46432
-MD5sum: 6422e3e857af8f63a3841560275d0547
-SHA1: d734f879decef56288eea330d6e65dc4a309d257
-SHA256: ce3aa3ea1b1235536cd218c2287876ecd45e2b6fe7f0cab8cf06debd42028be4
+Size: 125240
+MD5sum: ac2b3621753006276ce34865eac3854e
+SHA1: 0c59ae3293719ae33100fe191e7f40bbcd7f1ee0
+SHA256: e9e039309fde38633351418fe382147b4b82bcd3b1a6fa1e914bb849b67793fe
