@@ -23,7 +23,7 @@ Author: trop
 Section: Themes
 Depends: com.spark.snowboard
 Filename: ./debs/com.trop.trackpad-0.0.1.deb
-Size: 125240
+Size: 18844
 MD5sum: 3f79773478206b5d05061f5a2f4f9a8b
 SHA1: a641392cfe1369564de4877ae8d46c9ca5c85802
 SHA256: 4eb189799d3081cc8c009112d1e0eab52c88c96bf8669fe7511313e35529f2f2
@@ -38,7 +38,7 @@ Author: trop
 Section: Themes
 Depends: com.spark.snowboard
 Filename: ./debs/com.trop.trackpad-0.0.2.deb
-Size: 125240
+Size: 21936
 MD5sum: 8ee4014358765b403a6eb239b1474b51
 SHA1: 16bdfc6a714a2557bf5338f095eb5151ff5acb86
 SHA256: 96b4a7be3c0c1b45abe9c55cde67d75fb50538a64b02a770477d0813f9aacafa
@@ -53,7 +53,7 @@ Author: trop
 Section: Themes
 Depends: com.spark.snowboard
 Filename: ./debs/com.trop.trackpad-0.0.3.deb
-Size: 125240
+Size: 46432
 MD5sum: 6422e3e857af8f63a3841560275d0547
 SHA1: d734f879decef56288eea330d6e65dc4a309d257
 SHA256: ce3aa3ea1b1235536cd218c2287876ecd45e2b6fe7f0cab8cf06debd42028be4
